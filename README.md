@@ -1,6 +1,4 @@
-# API de Pedidos
-
-Projeto desenvolvido em Node.js utilizando Express para gerenciamento de pedidos.
+## AVALIAÇÃO - API
 
 ## Funcionalidades
 
@@ -10,20 +8,20 @@ Projeto desenvolvido em Node.js utilizando Express para gerenciamento de pedidos
 - Atualizar situação do pedido
 - Remover pedido
 
-## Tecnologias
+## FOI USADO:
 
 - Node.js
 - Express
 
-## Como executar
+## COMO EXECUTAR:
 
-### Instalar dependências
+### INSTALAR AS DEPENDENCIAS
 
 ```bash
 npm install
 ```
 
-### Executar o projeto
+### EXECUTAR O PROJETO
 
 ```bash
 node app.js
